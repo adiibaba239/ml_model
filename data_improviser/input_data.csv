@@ -1,0 +1,261 @@
+Unformatted Data,Formatted Data
+"Data Communication and Computer Network LAN provides a useful way of sharing the resources. Resources like printers, file servers, scanners, and internet are shareable. LANs are composed of inexpensive routing equipment.","### Data Communication and Computer Network
+#### Local Area Network (LAN)
+- **Purpose**: Shares resources among users, such as:
+  - Printers
+  - File servers
+  - Scanners
+  - Internet
+- **Components**: Inexpensive routing equipment."
+"Metropolitan Area Network The MAN generally expands throughout a city such as cable TV network. It uses Ethernet, Token-ring, ATM, or FDDI.","### Metropolitan Area Network (MAN)
+- **Definition**: Spans a city, e.g., cable TV network.
+- **Technologies**:
+  - Ethernet
+  - Token-ring
+  - ATM
+  - FDDI"
+Wide Area Network WAN spans a large geographical area. WANs provide connectivity to MANs and LANs. Telecommunication networks are examples of WANs.,"### Wide Area Network (WAN)
+- **Definition**: Covers large areas, e.g., provinces/countries.
+- **Purpose**: Connects MANs and LANs.
+- **Examples**: Telecommunication networks."
+for i in range(5): print(i),"```python
+for i in range(5):
+    print(i)
+```"
+"def add(a,b): return a+b","```python
+def add(a, b):
+    return a + b
+```"
+"x = [1,2,3,4] print(len(x))","```python
+x = [1, 2, 3, 4]
+print(len(x))
+```"
+"Components of a computer include CPU, Memory, Storage, Input devices, Output devices.","### Components of a Computer
+- CPU
+- Memory
+- Storage
+- Input devices
+- Output devices"
+"Steps to solve a problem include Analyze, Plan, Implement, Test.","### Steps to Solve a Problem
+1. Analyze
+2. Plan
+3. Implement
+4. Test"
+"Languages used in web development: HTML, CSS, JavaScript. Use cases: HTML for structure, CSS for design, JavaScript for interaction.","| Language    | Use Case          |
+|-------------|------------------|
+| HTML        | Structure        |
+| CSS         | Design           |
+| JavaScript  | Interaction      |"
+"Technologies in AI include Machine Learning, Deep Learning, NLP. Examples: ML includes SVMs, DL includes CNNs, NLP includes BERT.","| Technology        | Examples                 |
+|----------------|-------------------------|
+| Machine Learning | SVMs                  |
+| Deep Learning    | CNNs                  |
+| NLP              | BERT                  |"
+"Data Communication and Computer Network LAN provides a useful way of sharing the resources. Resources like printers, file servers, scanners, and internet are shareable. LANs are composed of inexpensive routing equipment.","### Data Communication and Computer Network
+#### Local Area Network (LAN)
+- **Purpose**: Shares resources among users, such as:
+  - Printers
+  - File servers
+  - Scanners
+  - Internet
+- **Components**: Inexpensive routing equipment."
+"Metropolitan Area Network The MAN generally expands throughout a city such as cable TV network. It uses Ethernet, Token-ring, ATM, or FDDI.","### Metropolitan Area Network (MAN)
+- **Definition**: Spans a city, e.g., cable TV network.
+- **Technologies**:
+  - Ethernet
+  - Token-ring
+  - ATM
+  - FDDI"
+Wide Area Network WAN spans a large geographical area. WANs provide connectivity to MANs and LANs. Telecommunication networks are examples of WANs.,"### Wide Area Network (WAN)
+- **Definition**: Covers large areas, e.g., provinces/countries.
+- **Purpose**: Connects MANs and LANs.
+- **Examples**: Telecommunication networks."
+for i in range(5): print(i),"```python
+for i in range(5):
+    print(i)
+```"
+"def add(a,b): return a+b","```python
+def add(a, b):
+    return a + b
+```"
+"x = [1,2,3,4] print(len(x))","```python
+x = [1, 2, 3, 4]
+print(len(x))
+```"
+"Components of a computer include CPU, Memory, Storage, Input devices, Output devices.","### Components of a Computer
+- CPU
+- Memory
+- Storage
+- Input devices
+- Output devices"
+"Steps to solve a problem include Analyze, Plan, Implement, Test.","### Steps to Solve a Problem
+1. Analyze
+2. Plan
+3. Implement
+4. Test"
+"Languages used in web development: HTML, CSS, JavaScript. Use cases: HTML for structure, CSS for design, JavaScript for interaction.","| Language    | Use Case          |
+|-------------|------------------|
+| HTML        | Structure        |
+| CSS         | Design           |
+| JavaScript  | Interaction      |"
+"Technologies in AI include Machine Learning, Deep Learning, NLP. Examples: ML includes SVMs, DL includes CNNs, NLP includes BERT.","| Technology        | Examples                 |
+|----------------|-------------------------|
+| Machine Learning | SVMs                  |
+| Deep Learning    | CNNs                  |
+| NLP              | BERT                  |"
+"Data Communication and Computer Network LAN provides a useful way of sharing the resources. Resources like printers, file servers, scanners, and internet are shareable. LANs are composed of inexpensive routing equipment.","### Data Communication and Computer Network
+#### Local Area Network (LAN)
+- **Purpose**: Shares resources among users, such as:
+  - Printers
+  - File servers
+  - Scanners
+  - Internet
+- **Components**: Inexpensive routing equipment."
+"Metropolitan Area Network The MAN generally expands throughout a city such as cable TV network. It uses Ethernet, Token-ring, ATM, or FDDI.","### Metropolitan Area Network (MAN)
+- **Definition**: Spans a city, e.g., cable TV network.
+- **Technologies**:
+  - Ethernet
+  - Token-ring
+  - ATM
+  - FDDI"
+Wide Area Network WAN spans a large geographical area. WANs provide connectivity to MANs and LANs. Telecommunication networks are examples of WANs.,"### Wide Area Network (WAN)
+- **Definition**: Covers large areas, e.g., provinces/countries.
+- **Purpose**: Connects MANs and LANs.
+- **Examples**: Telecommunication networks."
+for i in range(5): print(i),"```python
+for i in range(5):
+    print(i)
+```"
+"def add(a,b): return a+b","```python
+def add(a, b):
+    return a + b
+```"
+"x = [1,2,3,4] print(len(x))","```python
+x = [1, 2, 3, 4]
+print(len(x))
+```"
+"Components of a computer include CPU, Memory, Storage, Input devices, Output devices.","### Components of a Computer
+- CPU
+- Memory
+- Storage
+- Input devices
+- Output devices"
+"Steps to solve a problem include Analyze, Plan, Implement, Test.","### Steps to Solve a Problem
+1. Analyze
+2. Plan
+3. Implement
+4. Test"
+"Languages used in web development: HTML, CSS, JavaScript. Use cases: HTML for structure, CSS for design, JavaScript for interaction.","| Language    | Use Case          |
+|-------------|------------------|
+| HTML        | Structure        |
+| CSS         | Design           |
+| JavaScript  | Interaction      |"
+"Technologies in AI include Machine Learning, Deep Learning, NLP. Examples: ML includes SVMs, DL includes CNNs, NLP includes BERT.","| Technology        | Examples                 |
+|----------------|-------------------------|
+| Machine Learning | SVMs                  |
+| Deep Learning    | CNNs                  |
+| NLP              | BERT                  |"
+"Data Communication and Computer Network LAN provides a useful way of sharing the resources. Resources like printers, file servers, scanners, and internet are shareable. LANs are composed of inexpensive routing equipment.","### Data Communication and Computer Network
+#### Local Area Network (LAN)
+- **Purpose**: Shares resources among users, such as:
+  - Printers
+  - File servers
+  - Scanners
+  - Internet
+- **Components**: Inexpensive routing equipment."
+"Metropolitan Area Network The MAN generally expands throughout a city such as cable TV network. It uses Ethernet, Token-ring, ATM, or FDDI.","### Metropolitan Area Network (MAN)
+- **Definition**: Spans a city, e.g., cable TV network.
+- **Technologies**:
+  - Ethernet
+  - Token-ring
+  - ATM
+  - FDDI"
+Wide Area Network WAN spans a large geographical area. WANs provide connectivity to MANs and LANs. Telecommunication networks are examples of WANs.,"### Wide Area Network (WAN)
+- **Definition**: Covers large areas, e.g., provinces/countries.
+- **Purpose**: Connects MANs and LANs.
+- **Examples**: Telecommunication networks."
+for i in range(5): print(i),"```python
+for i in range(5):
+    print(i)
+```"
+"def add(a,b): return a+b","```python
+def add(a, b):
+    return a + b
+```"
+"x = [1,2,3,4] print(len(x))","```python
+x = [1, 2, 3, 4]
+print(len(x))
+```"
+"Components of a computer include CPU, Memory, Storage, Input devices, Output devices.","### Components of a Computer
+- CPU
+- Memory
+- Storage
+- Input devices
+- Output devices"
+"Steps to solve a problem include Analyze, Plan, Implement, Test.","### Steps to Solve a Problem
+1. Analyze
+2. Plan
+3. Implement
+4. Test"
+"Languages used in web development: HTML, CSS, JavaScript. Use cases: HTML for structure, CSS for design, JavaScript for interaction.","| Language    | Use Case          |
+|-------------|------------------|
+| HTML        | Structure        |
+| CSS         | Design           |
+| JavaScript  | Interaction      |"
+"Technologies in AI include Machine Learning, Deep Learning, NLP. Examples: ML includes SVMs, DL includes CNNs, NLP includes BERT.","| Technology        | Examples                 |
+|----------------|-------------------------|
+| Machine Learning | SVMs                  |
+| Deep Learning    | CNNs                  |
+| NLP              | BERT                  |"
+"Data Communication and Computer Network LAN provides a useful way of sharing the resources. Resources like printers, file servers, scanners, and internet are shareable. LANs are composed of inexpensive routing equipment.","### Data Communication and Computer Network
+#### Local Area Network (LAN)
+- **Purpose**: Shares resources among users, such as:
+  - Printers
+  - File servers
+  - Scanners
+  - Internet
+- **Components**: Inexpensive routing equipment."
+"Metropolitan Area Network The MAN generally expands throughout a city such as cable TV network. It uses Ethernet, Token-ring, ATM, or FDDI.","### Metropolitan Area Network (MAN)
+- **Definition**: Spans a city, e.g., cable TV network.
+- **Technologies**:
+  - Ethernet
+  - Token-ring
+  - ATM
+  - FDDI"
+Wide Area Network WAN spans a large geographical area. WANs provide connectivity to MANs and LANs. Telecommunication networks are examples of WANs.,"### Wide Area Network (WAN)
+- **Definition**: Covers large areas, e.g., provinces/countries.
+- **Purpose**: Connects MANs and LANs.
+- **Examples**: Telecommunication networks."
+for i in range(5): print(i),"```python
+for i in range(5):
+    print(i)
+```"
+"def add(a,b): return a+b","```python
+def add(a, b):
+    return a + b
+```"
+"x = [1,2,3,4] print(len(x))","```python
+x = [1, 2, 3, 4]
+print(len(x))
+```"
+"Components of a computer include CPU, Memory, Storage, Input devices, Output devices.","### Components of a Computer
+- CPU
+- Memory
+- Storage
+- Input devices
+- Output devices"
+"Steps to solve a problem include Analyze, Plan, Implement, Test.","### Steps to Solve a Problem
+1. Analyze
+2. Plan
+3. Implement
+4. Test"
+"Languages used in web development: HTML, CSS, JavaScript. Use cases: HTML for structure, CSS for design, JavaScript for interaction.","| Language    | Use Case          |
+|-------------|------------------|
+| HTML        | Structure        |
+| CSS         | Design           |
+| JavaScript  | Interaction      |"
+"Technologies in AI include Machine Learning, Deep Learning, NLP. Examples: ML includes SVMs, DL includes CNNs, NLP includes BERT.","| Technology        | Examples                 |
+|----------------|-------------------------|
+| Machine Learning | SVMs                  |
+| Deep Learning    | CNNs                  |
+| NLP              | BERT                  |"
