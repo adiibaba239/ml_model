@@ -2,11 +2,11 @@ from langchain_community.document_loaders import PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 # Load the PDF
-loader = PyPDFLoader(r"C:\data_communication_computer_network_tutorial.pdf")
+loader = PyPDFLoader(r"C:\Users\adity\Downloads\data_communication_computer_network_tutorial.pdf")
 docs = loader.load()
 
 # Specify the chunk size
-chunk_size = 400
+chunk_size = 15000
 chunk_overlap = 50  # Optional: overlap between chunks for context
 
 # Initialize the text splitter
@@ -18,7 +18,7 @@ text_splitter = RecursiveCharacterTextSplitter(
 # Break each document into chunks
 all_chunks = []
 for doc in docs:
-    chunks = text_splitter.split_text(doc.page_content)
+    chunks = text_splitter.split_text(doc.metadata)
     all_chunks.extend(chunks)
 
 # Print the chunks

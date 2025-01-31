@@ -53,13 +53,13 @@ def generate_dataset(input_csv, output_csv, num_variations=100, augment_columns=
 
 if __name__ == "__main__":
     # Input CSV file path (replace with your file path)
-    input_csv = "input_data.csv"
+    input_csv = "formatted_text.csv"
 
     # Output CSV file path (where augmented data will be stored)
     output_csv = "augmented_data.csv"
 
     # Number of variations per row in the input CSV
-    num_variations = 10
+    num_variations = 3
 
     # Specify columns to augment (if None, all columns will be augmented)
     augment_columns = None  # Example: ['Column1', 'Column2']
