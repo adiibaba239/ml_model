@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5cfda25-6ebd-436f-b5a5-aa1fdd1e6010" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data_improviser/formatted_text.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf_data_extractor/AD.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_improviser/data_improviser.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_improviser/data_improviser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_improviser/gp.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_improviser/gp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf_data_extractor/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pdf_data_extractor/2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf_data_extractor/pdf_data_extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/pdf_data_extractor/pdf_data_extractor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,18 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "adiibaba239"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;adiibaba239&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/adiibaba239/ml_model.git",
-    "accountId": "c1fecc0a-0160-4bc8-aeee-80551c5d99a2"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/adiibaba239/ml_model.git&quot;,
+    &quot;accountId&quot;: &quot;c1fecc0a-0160-4bc8-aeee-80551c5d99a2&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -49,19 +43,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.2.executor": "Run",
-    "Python.AD.executor": "Run",
-    "Python.data_improviser.executor": "Run",
-    "Python.fig_extractor.executor": "Run",
-    "Python.gp.executor": "Run",
-    "Python.pdf_data_extractor.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/ML_WORK/DATA_GENERATOR/data_improviser"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AD.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_improviser.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fig_extractor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pdf_data_extractor.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ML_WORK/DATA_GENERATOR/data_improviser&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ML_WORK\DATA_GENERATOR\data_improviser" />
